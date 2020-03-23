@@ -1,0 +1,183 @@
+body {
+	margin:0;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.2rem;
+	color: #A7D129;
+	font-weight: normal;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #A7D129;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+}
+
+hr {
+	border-style: dotted none none;
+    border-color: grey;
+	border-width: 8px;
+    width: 4em;
+    margin-top:2em;
+    padding-top: 3em;
+
+}
+
+
+.top-container {
+	background-color: #232020;
+	padding-top:5%;
+}
+
+.middle-container{
+	background-color: #323232;
+	padding-bottom: 2%;
+}
+
+.bottom-container {
+	background-color: #000000;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	margin-bottom: 0;
+}
+
+.footer-link{
+	font-family: 'Montserrat', sans-serif;
+	color: #A7D129;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-top:50px;
+}
+
+.skills-images {
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+
+.skill-row{
+	width:50%;
+	margin:100px auto;
+	text-align: left;
+	line-height: 2;
+	padding-bottom: 32px;
+}
+
+.frontend-img{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.backend-img{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.bottom-image {
+	padding-left:0.8rem;
+	padding-right:0.8rem;
+}
+
+.communication-img{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+#introduction{
+	margin-top:0;
+	margin-bottom:0;
+	font-size: 110px;
+	font-family: 'Sacramento', cursive;
+	padding-bottom: 0;
+	color: #A7D129;
+	z-index: 1;
+	position:relative;
+
+}
+
+#a-web-dev{
+	
+	font-family: 'Archivo Narrow', sans-serif;
+	position:relative;
+	z-index: 1;
+	color: #A7D129;
+	font-size:24px;
+	margin-top:0;
+	margin-bottom:4%;
+	line-height:1;
+}
+
+#css-icon {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#html-icon {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#js-icon {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#bootstrap-icon {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#react-icon {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#nodejs-icon {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+#linus-img{
+	padding-top:3%;
+}
+
+#bio{
+	display:inline-block;
+	width:40%;
+ 	line-height: 2;
+  	margin: auto;
+  	padding-bottom: 30px;
+}
+
+.btn {
+	margin-top: 15px;
+	color: #A7D129;
+	font-family: Open Sans;
+	font-size: 16px;
+	font-weight: 100;
+	padding: 12px;
+	background-color: #323232;
+	box-shadow: 1px 1px 5px 0px #000000;
+	-webkit-box-shadow: 1px 1px 5px 0px #000000;
+	-moz-box-shadow: 1px 1px 5px 0px #000000;
+	text-shadow: 1px 1px 5px #000000;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+}
+
+.btn:hover {
+	background: #464646;
+	text-decoration: none;
+
+}
